@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/yazuo/Test2.java" line="25" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35d9cb85-c971-4171-a00d-861bba961848" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/Article.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/Employee.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/Test2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/AbstractCommonValidator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/CalendarUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/DrawThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/Info.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/InterFace.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/AlternateDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/AtomicDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/CountDownDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/HellwThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/LockDemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestABCAlternate$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestABCAlternate$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestABCAlternate$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestABCAlternate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestAtomic.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestCallable.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestCountDownLatch.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestExecutors$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestExecutors.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestList.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestLock.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestScheduledThreadPool$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestScheduledThreadPool.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/TestVolatile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/ThreadDemo2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/JUC/Threaddemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/LunarCalendar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/MyCount.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/MyInterruptibly.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/People.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/PerFulSendValidator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/SaveThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/Test2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/TestCalendarHoliday.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/Validator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/celve/AdvancedMemberStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/celve/Client.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/celve/IntermediateMemberStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/celve/MemberStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/celve/Price.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/celve/PrimaryMemberStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/kbpos/campaign/util/CalendarHolidayUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/model/first/Single/SingleDemo1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/CompareAndSwap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/MyReentrantReadWriteLock$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/MyReentrantReadWriteLock$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/MyReentrantReadWriteLock.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/MyTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/Prossor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/Prossore.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/Test$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/Test$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/TestCAS$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/TestCAS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/TestRunabble.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/TestThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/TestVolatile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/xiancheng/Threaddemo.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/test/com/yazuo/celve/策略模式示例" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Article.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Employee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/AbstractCommonValidator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/CalendarHoliday.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/CalendarHolidayUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/CalendarUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/Info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/InterFace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestABCAlternate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestAtomic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestCallable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestCountDownLatch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestExecutors.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestScheduledThreadPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/JUC/TestVolatile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/MyInterruptibly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/People.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/PerFulSendValidator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/Test2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/Validator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/celve/AdvancedMemberStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/celve/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/celve/IntermediateMemberStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/celve/MemberStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/celve/Price.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/celve/PrimaryMemberStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/celve/策略模式示例" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/model/first/Single/SingleDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/xiancheng/MyReentrantReadWriteLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/xiancheng/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestCAS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestRunabble.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestVolatile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.iml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/test$Test.coverage" NAME="Test Coverage Results" MODIFIED="1534836389907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.yazuo.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SingleDemo1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/yazuo/model/first/Single/SingleDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding>
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Executor</find>
+      <find>new</find>
+      <find>newScheduledThreadPool</find>
+      <find>newCa</find>
+      <find>ThreadPoolExecutor</find>
+      <find>solarToLunar</find>
+      <find>animalsYear</find>
+      <find>isday</find>
+      <find>getLunarDate</find>
+      <find>国庆</find>
+      <find>lunarMonth</find>
+      <find>leapMonth</find>
+      <find>CHINESE</find>
+      <find>lunarInfo</find>
+      <find>lunarHoliday</find>
+      <find>solarHoliday</find>
+      <find>12</find>
+      <find>leapDays</find>
+      <find>SolarTerm</find>
+      <find>STermInfo</find>
+      <find>solarTerms</find>
+      <find>package com\.yazuo\;\n\n\/\*\*\n \* \@Author\: caimian\n \* \@Description\:\n \* \@Date\: 2018\/11\/7 15\:31\n \*\/\npublic class Info \{\n String name \;\n    String people\;\n            String tel\;\n    int stoNum\;\n    int memNum\;\n    int tradeNum\;\n    double trandMoney\;\n\n\}\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/yazuo/Celve.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/celve/MemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/celve/Price.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/celve/PrimaryMemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/celve/IntermediateMemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/celve/AdvancedMemberStrategy.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/celve/Client.java" />
+        <option value="$PROJECT_DIR$/src/Article.java" />
+        <option value="$PROJECT_DIR$/src/TestSyn.java" />
+        <option value="$PROJECT_DIR$/src/MyInterruptibly.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/MyInterruptibly.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/MyInterruptibly.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestRunabble.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestThread.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/MyReentrantReadWriteLock.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/Employee.java" />
+        <option value="$PROJECT_DIR$/src/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestCAS.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/TestConcurrentHashMap.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/Validator.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/AbstractCommonValidator.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/PerFulSendValidator.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/InterFace.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/People.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/PdfboxUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/TestVolatile.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestVolatile.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestAtomic.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestList.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestCountDownLatch.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestLock.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestABCAlternate.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestCallable.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestExecutors.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/JUC/TestScheduledThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/CalendarUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/xiancheng/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/LunarCalendar.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/CalendarHolidayUtil.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/CalendarHoliday.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/Info.java" />
+        <option value="$PROJECT_DIR$/src/Test.java" />
+        <option value="$PROJECT_DIR$/src/Test2.java" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/celve/策略模式示例" />
+        <option value="$PROJECT_DIR$/src/com/yazuo/model/first/Single/SingleDemo1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="true" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="yazuo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="yazuo" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="yazuo" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="Single" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="E:/mygit" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yazuo" />
+      <recent name="" />
+      <recent name="com.yazuo.celve" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Java\jdk1.8.0_60\jre\lib\ext\access-bridge-64.jar" />
+      <recent name="E:\source\test\src\com\yazuo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SingleDemo1">
+    <configuration name="SingleDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yazuo.model.first.Single.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yazuo.model.first.Single.SingleDemo1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+    </configuration>
+    <configuration name="Test2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Test2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yazuo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yazuo.Test2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+    </configuration>
+    <configuration name="TestCalendarHoliday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.yazuo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.yazuo.TestCalendarHoliday" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestCalendarHoliday" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test2 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SingleDemo1" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SingleDemo1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test2 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestCalendarHoliday" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d9cb85-c971-4171-a00d-861bba961848" name="Default" comment="" />
+      <created>1525417118324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525417118324</updated>
+      <workItem from="1529472459419" duration="296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="296000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18228279" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44727892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48892674" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20801815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42687073" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.522293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yazuo/xiancheng/TestCAS.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yazuo/xiancheng/TestCAS.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yazuo/xiancheng/TestCAS.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yazuo/PerFulSendValidator.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yazuo/Test2.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="68" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/xiancheng/TestRunabble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/xiancheng/TestCAS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="36" column="23" lean-forward="false" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/TestConcurrentHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/MyInterruptibly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="74" column="6" lean-forward="false" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/ValidatorFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/AbstractCommonValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="64" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/PerFulSendValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="62" column="29" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="754" column="30" lean-forward="false" selection-start-line="754" selection-start-column="27" selection-end-line="754" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/InterFace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="2124" column="17" lean-forward="false" selection-start-line="2124" selection-start-column="11" selection-end-line="2124" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="482" column="18" lean-forward="false" selection-start-line="482" selection-start-column="18" selection-end-line="482" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/People.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/xiancheng/PdfReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/xiancheng/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestVolatile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestAtomic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="34" column="11" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="166" column="17" lean-forward="false" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestCountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestABCAlternate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="108" column="43" lean-forward="true" selection-start-line="108" selection-start-column="43" selection-end-line="108" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="121" column="34" lean-forward="false" selection-start-line="121" selection-start-column="16" selection-end-line="121" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="116" column="53" lean-forward="false" selection-start-line="116" selection-start-column="53" selection-end-line="116" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="255" column="11" lean-forward="false" selection-start-line="255" selection-start-column="11" selection-end-line="255" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/Future.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="95" column="17" lean-forward="false" selection-start-line="95" selection-start-column="17" selection-end-line="95" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/FutureTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="62" column="44" lean-forward="false" selection-start-line="62" selection-start-column="44" selection-end-line="62" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/RunnableFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="47" column="59" lean-forward="false" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="235" column="14" lean-forward="false" selection-start-line="235" selection-start-column="8" selection-end-line="235" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="283" column="42" lean-forward="false" selection-start-line="283" selection-start-column="18" selection-end-line="283" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="125" column="30" lean-forward="false" selection-start-line="125" selection-start-column="15" selection-end-line="125" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/org/omg/CORBA/SystemException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="72" column="14" lean-forward="false" selection-start-line="72" selection-start-column="14" selection-end-line="72" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="1301" column="54" lean-forward="false" selection-start-line="1301" selection-start-column="30" selection-end-line="1301" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestExecutors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/JUC/TestScheduledThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/xiancheng/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/CalendarUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="325" column="16" lean-forward="true" selection-start-line="325" selection-start-column="16" selection-end-line="325" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="693" column="28" lean-forward="false" selection-start-line="693" selection-start-column="28" selection-end-line="693" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/CalendarHoliday.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/CalendarHolidayUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/Validator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/util/UUID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="140" column="23" lean-forward="false" selection-start-line="140" selection-start-column="23" selection-end-line="140" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="21" column="34" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/Info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="40" column="31" lean-forward="false" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/celve/策略模式示例">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/yazuo/model/first/Single/SingleDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
